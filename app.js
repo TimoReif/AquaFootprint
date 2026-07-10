@@ -214,7 +214,7 @@ const QUESTIONS = [
         options: [
             { value: '7k', label: '7.000 Liter (ca. 175 Duschen)' },
             { value: '70k', label: '70.000 Liter (ca. 1.750 Duschen)' },
-            { value: '700k', label: '700.000 Liter (ca. 17.500 Duschen) - Richtige Antwort' },
+            { value: '700k', label: '700.000 Liter (ca. 17.500 Duschen)' },
             { value: '7m', label: '7.000.000 Liter (ca. 175.000 Duschen)' }
         ],
         default: '7k',
